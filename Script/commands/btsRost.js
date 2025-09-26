@@ -23,7 +23,7 @@ module.exports.run = async function ({
 
   var _0x40f46f = Object.keys(_0x44c3dd.mentions)[0];
   if (!_0x40f46f) {
-    return _0x3a8ee1.sendMessage("যেই BTS ফ্যান কে শিক্ষা দিতে চান তাকে @ম্যানশন দিন👿", _0x44c3dd.threadID);
+    return _0x3a8ee1.sendMessage("BOSS PRIYO যেই BTS ফ্যান কে শিক্ষা দিতে চান তাকে @ম্যানশন দিন👿", _0x44c3dd.threadID);
   }
   let _0x34277f = _0x44c3dd.mentions[_0x40f46f];
   var _0x28ad5e = [];
